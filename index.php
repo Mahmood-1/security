@@ -9,7 +9,7 @@
 </head>
 
 <body>
-
+    <a href="https://security1mahmood.herokuapp.com/results.php">results</a>
 </body>
 <script>
     fetch('https://security1mahmood.herokuapp.com/tracker.php')
