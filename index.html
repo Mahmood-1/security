@@ -12,7 +12,7 @@
 
 </body>
 <script>
-    fetch('http://localhost/security/tracker.php')
+    fetch('https://security1mahmood.herokuapp.com/tracker.php')
 </script>
 
 </html>
